@@ -1,4 +1,4 @@
-//("hello");
+
 var colors = generateRandomColors(numSquares);
 
 var squares = document.querySelectorAll(".square");
